@@ -1,4 +1,6 @@
 --**Exploratory data analysis**
+--Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types, Pivot, Case statements, Subqueries
+
 USE EVs
 
 -- Check the datatypes

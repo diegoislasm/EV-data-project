@@ -6,7 +6,7 @@ This project shows important insights of the global EV sales data throughout the
 
 ### Data Source
 
-The datasets used for this analysis were obtained from IEA (2024), Global EV Data Explorer, IEA, Paris https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer. The two datasets obtained from there were then renamed as [EV_sales.csv]() and [EV_charging_points.csv]().
+The datasets used for this analysis were obtained from IEA (2024), Global EV Data Explorer, IEA, Paris https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer. The two datasets obtained from there were then renamed as [EV_sales.csv](https://github.com/diegoislasm/Data_projects/blob/main/EV_sales.csv) and [EV_charging_points.csv](https://github.com/diegoislasm/Data_projects/blob/main/EV_charging_points.csv).
 
 ### Tools
 

@@ -2,11 +2,11 @@
 
 ## Project Overview 
 
-This project shows important insights of the global EV sales data throughout the years, offering data about sales and stock by EV type (BEV, HEV, PHEV) and charging stations by country and year. The porpuse of this is to provide key information about the best EV type investment, best country to invest in EV or charging stations, based on trends and current metrics.
+This project shows important insights of the global EV sales data throughout the years, offering data about sales and current number of EVs per country divided by their types (BEV, HEV, PHEV) and charging stations by country and year. The purpose of this is to provide key information about the best EV type investment, best country to invest in EV or charging stations, based on trends and current metrics.
 
 ### Data Source
 
-The datasets [EV_sales.csv](https://github.com/diegoislasm/Data_projects/blob/main/EV_sales.csv) and [EV_charging_points.csv](https://github.com/diegoislasm/Data_projects/blob/main/EV_charging_points.csv) used for this analysis were obtained from IEA (2024), Global EV Data Explorer, IEA, Paris https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer.
+The two datasets ([EV_sales.csv](https://github.com/diegoislasm/Data_projects/blob/main/EV_sales.csv) and [EV_charging_points.csv](https://github.com/diegoislasm/Data_projects/blob/main/EV_charging_points.csv)) used for this analysis were obtained from IEA (2024), Global EV Data Explorer, IEA, Paris https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer.
 
 ### Tools
 

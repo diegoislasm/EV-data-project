@@ -10,7 +10,7 @@ The two datasets ([EV_sales.csv](https://github.com/diegoislasm/Data_projects/bl
 
 ### Tools
 
-- SQL Server - Data Cleaning and analysis
+- SQL Server - Data cleaning and analysis
 - Tableau - Creating dashboard
 
 ### Data Cleaning / Preparation

@@ -20,3 +20,12 @@ In this phase  the tasks performed were the following:
 1. Data loading and data exploration
 2. Data cleaning and formatting
 3. handling null values
+
+### Exploratory Data Analysis
+
+In the EDA to analyze the sales data the following questions were answered:
+
+- What is the overall trending sales?
+- What is the country with more EV sales?
+- What is the country with more EVs?
+- What is the most popular type of EV?

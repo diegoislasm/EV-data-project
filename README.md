@@ -41,3 +41,23 @@ FROM EV_data_long
 GROUP BY year) AS SourceTable
 WHERE EV_sales != 0
 ```
+
+## Results
+
+The analysis results are summarized as follows:
+
+1. amae
+2. dad
+3. 131
+
+## Recommendations
+
+Based on the analysis, I recommend the following actions:
+- Invest
+- Focus
+- Imolement
+
+## Limitations
+
+Not all countries, only some years for some countries, only one source, outliers of 0.034 charging stations
+

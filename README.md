@@ -5,7 +5,7 @@
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Tools](#tools)
-- [Data Cleaning / Preparation](#data-cleaning-/-preparation)
+- [Data Cleaning/Preparation](#data-cleaning/preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Results](#results)
@@ -25,7 +25,7 @@ The two datasets ([EV_sales.csv](https://github.com/diegoislasm/Data_projects/bl
 - SQL Server - Data cleaning and analysis
 - Tableau - Creating dashboard
 
-### Data Cleaning / Preparation
+### Data Cleaning/Preparation
 
 In this phase  the tasks performed were the following:
 

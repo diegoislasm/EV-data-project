@@ -1,5 +1,17 @@
 # Electric Vehicles sales analysis
 
+## Table of contents
+
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning / Preparation](#data-cleaning-/-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+
 ## Project Overview 
 
 This project shows important insights of the global EV sales data throughout the years, offering data about sales and current number of EVs per country divided by their types (BEV, HEV, PHEV) and charging stations by country and year. The purpose of this is to provide key information about the best EV type investment, best country to invest in EV or charging stations, based on trends and current metrics.

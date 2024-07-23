@@ -29,3 +29,15 @@ In the EDA to analyze the sales data the following questions were answered:
 - What is the country with more EV sales?
 - What is the country with more EVs?
 - What is the most popular type of EV?
+
+## Data Analysis
+
+```sql
+CREATE VIEW EV_types_distribution AS
+SELECT year, 
+(FCEV / EV_sales) * 100 AS FCEV_percent, (PHEV / EV_sales) * 100 AS PHEV_percent, (BEV / EV_sales) * 100 AS BEV_percent
+FROM (SELECT year, SUM(PHEV_sales) AS  PHEV, SUM(FCEV_sales) AS FCEV, SUM(BEV_sales) AS BEV, (SUM(PHEV_sales) + SUM(FCEV_sales) + SUM(BEV_sales)) AS EV_sales
+FROM EV_data_long
+GROUP BY year) AS SourceTable
+WHERE EV_sales != 0
+```

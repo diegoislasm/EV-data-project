@@ -11,12 +11,6 @@ EXEC sp_help 'dbo.EV_charging_points'
 ALTER TABLE dbo.EV_sales
 ALTER COLUMN value float
 
-ALTER TABLE dbo.EV_sales
-ALTER COLUMN value float
-
-ALTER TABLE dbo.EV_charging_points
-ALTER COLUMN value float
-
 ALTER TABLE dbo.EV_charging_points
 ALTER COLUMN value float
 

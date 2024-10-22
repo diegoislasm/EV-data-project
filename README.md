@@ -14,7 +14,7 @@
 
 ## Project Overview 
 
-This project shows important insights of the global EV sales data throughout the years, offering data about sales and current number of EVs per country divided by their types (BEV, HEV, PHEV) and charging stations by country and year. The purpose of this is to provide key information about the best EV type investment, best country to invest in EV or charging stations, based on trends and current metrics.
+This project shows important insights of the global EV sales data throughout the years, offering data about sales, current number of EVs per country divided by their types (BEV, HEV, PHEV) and charging stations by country and year. The purpose of this is to provide key information about the best EV type investment, best country to invest in EV or charging stations, based on trends and current metrics.
 
 ### Data Source
 
@@ -57,6 +57,25 @@ WHERE EV_sales != 0
 ## Results
 
 The analysis results are summarized as follows:
+
+Top 5 countries with highest % of cars being EVs in 2023:
+1. Norway - 29%
+2. Iceland - 18%
+3. Sweden - 11%
+4. Finland - 8%
+5. China - 7%
+
+  Global Average - 2.97%
+
+Top 5 countries with highest percentage of EVs sold of total car sales:
+1. Norway - 93%
+2. Iceland - 71%
+3. Sweden - 60%
+4. Finland - 54%
+5. Denmark - 46%
+
+   Global Average - 18%
+  
 
 1. amae
 2. dad

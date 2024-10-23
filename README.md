@@ -58,19 +58,10 @@ WHERE EV_sales != 0
 
 The analysis results are summarized as follows:
 
-**Top 5 countries with highest % of cars being EVs in 2023:**
-1. Norway - **29%**
-2. Iceland - **18%**
-3. Sweden - **11%**
-4. Finland - **8%**
-5. China - **7%**
-
-  **Global Average - 2.97%**
-  
+- The top 5 countries with highest % of cars being EVs in 2023 were **Norway** (29%), **Iceland** (18%), **Sweden** (11%), **Finland** (8%) and **China** (7%), with a **global average** of 2.97%**
 - The top 5 countries with highest percentage of EVs sold of total car sales were **Norway** (93%), **Iceland** (71%), **Sweden** (60%), **Finland** (54%) and **Denmark** (46%), with a **global average** of 18%
-- The global EV type sales distribution was **0.1%** FCEV, **31%** PHEV and **68.8%** BEV.
-
-- The countries with the highest EV sales in 2023 are China with **8.1 million**, USA with **1.3 million** and Germany with **700 thousands**.
+- The global EV type sales distribution was 0.1% **FCEV**, 31% **PHEV** and 68.8% **BEV**.
+- The countries with the highest EV sales in 2023 are **China** with 8.1 million, **USA** with 1.3 million and **Germany** with 700 thousands.
 
 1. amae
 2. dad

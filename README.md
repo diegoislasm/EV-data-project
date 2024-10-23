@@ -77,8 +77,9 @@ The analysis results are summarized as follows:
 
    **Global Average - 18%**
   
--The global EV type sales distribution was **0.1%** FCEV, **31%** PHEV and **68.8%** BEV.
--The countries with the highest EV sales in 2023 are China with **8.1 million**, USA with **1.3 million** and Germany with **700 thousands**.
+- The global EV type sales distribution was **0.1%** FCEV, **31%** PHEV and **68.8%** BEV.
+
+- The countries with the highest EV sales in 2023 are China with **8.1 million**, USA with **1.3 million** and Germany with **700 thousands**.
 
 1. amae
 2. dad

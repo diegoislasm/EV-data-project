@@ -65,9 +65,10 @@ The analysis results are summarized as follows:
 - The countries with the highest EV sales in 2023 are **China** with 8.1 million, **USA** with 1.3 million and **Germany** with 700 thousands.
 
 ### Charging stations
-1. amae
-2. dad
-3. 131
+
+- The top 5 countries with more chargers per 100 EVs in 2023 were **South Korea** (36), **Chile** (27), **Netherlands** (21), **Greece** (15) and **China** (12) with the **global average** being 8 chargers.
+- The chargers per 100 EV have gone from 23 in 2010 to 10 in 2023.
+- The EVs and chargers have grown at a very similar rate since 2010 through 2023, except between 2019 and 2021 where the number EVs increased at a higher rate than the chargers.
 
 ## Recommendations
 
@@ -75,6 +76,9 @@ Based on the analysis, I recommend the following actions:
 - Invest
 - Focus
 - Imolement
+
+- Countries with the highest number of cars but not enough chargers
+- Countries with the faster growing number of EVs
 
 ## Limitations
 

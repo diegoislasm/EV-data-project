@@ -74,6 +74,16 @@ The analysis results are summarized as follows:
 ## Recommendations
 
 Based on the analysis, I recommend the following actions:
+
+Although all around the world the EV adoption has shown a clear upward trend, there are some markets and products that could see a bigger adoption that's why these are the recommendations based on that:
+
+- The EV type to focus on to develop would have to be the preferred type of EV by far is the Battery Electric Vehicle (BEV) having more than half of the market for over 10 years, leaving as the runner up the Plugins Hybrid Electric Vehicles with most of the remaining market (around 30% in the last years) and the Fuel Cell Electric Vehicles (FCEV) with a very small portion of the market with less that 1% due to being a new technology.
+- Countries where the EVs are preferred over the ICE (internal combustion engines or gas cars), 
+
+- 
+
+Based on the growth in sales in EVs, the obvious move is to look at the charging stations to recharge this type of vehicles, so 
+
 - Invest
 - Focus
 - Imolement

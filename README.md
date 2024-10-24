@@ -67,8 +67,9 @@ The analysis results are summarized as follows:
 ### Charging stations
 
 - The top 5 countries with more chargers per 100 EVs in 2023 were **South Korea** (36), **Chile** (27), **Netherlands** (21), **Greece** (15) and **China** (12) with the **global average** being 8 chargers.
-- The chargers per 100 EV have gone from 23 in 2010 to 10 in 2023.
-- The EVs and chargers have grown at a very similar rate since 2010 through 2023, except between 2019 and 2021 where the number EVs increased at a higher rate than the chargers.
+- The top 5 countries with less chargers per 100 EVs in 2023 were 
+- The chargers per 100 EV have gone from **23** in 2010 to **10** in 2023.
+- The number of EVs and chargers globally have grown at a very similar rate since 2010 through 2023, except between 2019 and 2021 where the number of EVs increased at a higher rate than the chargers.
 
 ## Recommendations
 

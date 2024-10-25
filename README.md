@@ -75,12 +75,11 @@ The analysis results are summarized as follows:
 
 Based on the analysis, I recommend the following actions:
 
-Although all around the world the EV adoption has shown a clear upward trend, there are some markets and products that could see a bigger adoption that's why these are the recommendations based on that:
+Although all around the world the EV adoption has shown a clear upward trend, there are some markets and products that could see a bigger adoption therefore these are the recommendations based on that:
 
-- The EV type to focus on to develop would have to be the preferred type of EV by far is the Battery Electric Vehicle (BEV) having more than half of the market for over 10 years, leaving as the runner up the Plugins Hybrid Electric Vehicles with most of the remaining market (around 30% in the last years) and the Fuel Cell Electric Vehicles (FCEV) with a very small portion of the market with less that 1% due to being a new technology.
-- Countries where the EVs are preferred over the ICE (internal combustion engines or gas cars), 
-
-- 
+- The EV type to focus on to develop would have to be the preferred type of EV which is the Battery Electric Vehicle (BEV) by far, having more than half of the market for over 10 years, leaving as the runner up the Plugins Hybrid Electric Vehicles with most of the remaining market (around 30% in the last years) and the Fuel Cell Electric Vehicles (FCEV) with a very small portion of the market with less that 1% due to being a new technology.
+- The countries where the investments should be thrown at are the ones that have preferred EVs over the ICE (Internal Combustion Engines or gas cars) which are Norway, Iceland, Sweden, Finland, Denmark, Belgium and China.
+- United States and China are also huge markets to consider, given that despite the USA having only 10% of EV adoption in 2023, the States were the second country with the highest EV sales in that same year, while China was first place. 
 
 Based on the growth in sales in EVs, the obvious move is to look at the charging stations to recharge this type of vehicles, so 
 

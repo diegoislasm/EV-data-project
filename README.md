@@ -81,14 +81,11 @@ Although all around the world the EV adoption has shown a clear upward trend, th
 - The countries where the investments should be thrown at are the ones that have preferred EVs over the ICE (Internal Combustion Engines or gas cars) which are Norway, Iceland, Sweden, Finland, Denmark, Belgium and China.
 - United States and China are also huge markets to consider, given that despite the USA having only 10% of EV adoption in 2023, the States were the second country with the highest EV sales in that same year, while China was first place. 
 
-Based on the growth in sales in EVs, the obvious move is to look at the charging stations to recharge this type of vehicles, so 
+Based on the growth in EV sales, the obvious move is to look at the charging stations to recharge this type of vehicles, so these are the recommendations for that:
 
-- Invest
-- Focus
-- Imolement
+- Based on the global trend of the chargers per 100 EV ratio it's easy to see that EV have been produced at a higher speed compared to the number of chargers to satisfy the demand, going from 20 chargers per 100 EV, the number of chargers have decreased gradually to only 10 chargers per 100 EV, showing unsatisfied demand.
+- It is recommended to make investments in the countries with not enough chargers per EV but with a high adoption of EVs, like New Zealand, Norway, Iceland, USA and Germany where the chargers per 100 EV ratio is below 5, being 8 the average. So despite the high adoption of EVs in these countries, the chargers developtment is not there yet which creates a big opportunity for success, maybe even better than the EV industry itselt where competition gets harder and harder. 
 
-- Countries with the highest number of cars but not enough chargers
-- Countries with the faster growing number of EVs
 
 ## Limitations
 

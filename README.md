@@ -90,5 +90,6 @@ Based on the growth in EV sales, the obvious move is to look at the charging sta
 ## Limitations
 
 The main limitations that I encounter were 
-Not all countries, only some years for some countries, only one source, outliers of 0.034 charging stations
+The dataset used only included data from 51 countries and covered from 2010 to 2023.
+, only some years for some countries, only one source, outliers of 0.034   charging stations
 

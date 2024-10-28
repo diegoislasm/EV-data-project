@@ -54,6 +54,24 @@ GROUP BY year) AS SourceTable
 WHERE EV_sales != 0
 ```
 
+```sql
+-- Show number of EVs per charging point by country
+SELECT *, 
+CASE 
+	WHEN Total_EV_stock != 0 AND Total_chargers != 0
+	THEN Total_EV_stock / Total_chargers 
+	ELSE 0
+END
+AS EVs_chargers_ratio
+FROM
+(SELECT region, year, (SUM(FCEV_stock) + SUM(PHEV_stock) + SUM(BEV_stock)) AS Total_EV_stock, (SUM(slow_chargers) + SUM(fast_chargers)) AS Total_chargers
+FROM EV_data_long
+GROUP BY region, year
+) AS cumulated_data
+WHERE Total_EV_stock != 0 AND Total_chargers != 0
+ORDER BY region, year
+```
+
 ## Results
 
 The analysis results are summarized as follows:
@@ -89,7 +107,8 @@ Based on the growth in EV sales, the obvious move is to look at the charging sta
 
 ## Limitations
 
-The main limitations that I encounter were 
-The dataset used only included data from 51 countries and covered from 2010 to 2023.
-, only some years for some countries, only one source, outliers of 0.034   charging stations
+- The dataset used only included data from 51 countries and covered from 2010 to 2023.
+- There were outliers with 0.034 in charging stations that were fixed with zeros.
+- The charging stations were divided in slow chargers and fast chargers in the data source but they were joined to simplify the results of this project.
+- 
 

@@ -74,6 +74,8 @@ ORDER BY region, year
 
 ## Results
 
+As part of the project an interactive Tableau dashboard was created and used to get the results. The dashboard can be accessed [here](https://public.tableau.com/app/profile/diego.islas/viz/EVproject_17145381333610/EVDashboard2).
+
 The analysis results are summarized as follows:
 
 ### Electric Vehicles

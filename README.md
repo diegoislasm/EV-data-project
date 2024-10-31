@@ -27,22 +27,39 @@ The two datasets ([EV_sales.csv](https://github.com/diegoislasm/Data_projects/bl
 
 ### Data Cleaning and Preparation
 
-In this phase  the tasks performed were the following:
+In this phase the tasks performed were the following:
 
-1. Data loading and data exploration
-2. Data cleaning and formatting
-3. handling null values
+1. Review datatypes and fix them.
+2. Use UNION function to merge both datasets into temp table.
+3. Check for null values.
+4. Get the unique values for main fields.
+5. Fix outliers.
+6. Create temp tables to split data.
+7. Create a CTE with a distinct value to use it as primary key.
+8. Join temp tables using CTE to have a long format dataset.
+
 
 ### Exploratory Data Analysis
 
-In the EDA to analyze the sales data the following questions were answered:
+As part of the EDA I started by finding facts like the overall trending sales, the country with more EV sales, the country with more EVs, the most popular type of EV and more. To do this a combination of functions like GROUP BY, PARTITION BY, conditions, LAG and subqueries were used.
 
-- What is the overall trending sales?
-- What is the country with more EV sales?
-- What is the country with more EVs?
-- What is the most popular type of EV?
+Here are some examples of the code used: 
 
-## Data Analysis
+```sql
+-- Get the cumulative sales of electric vehicles (BEV and PHEV) by country over the years
+SELECT region, year, year_sales, SUM(Year_sales) OVER (PARTITION BY region ORDER BY region, year) AS cumulative_sales
+FROM (
+SELECT region, year, FCEV_sales, PHEV_sales, BEV_sales, (FCEV_sales + PHEV_sales + BEV_sales) Year_sales
+FROM EV_data_long) AS SourceTable
+ORDER BY region ASC, year ASC
+```
+
+```sql
+-- Get stock share of EVs by country and year
+SELECT region, year, EV_stock_share, (EV_stock_share / NULLIF((LAG(EV_stock_share, 1, EV_stock_share) OVER (PARTITION BY region ORDER BY year ASC)), 0) -1) * 100 AS Percent_change 
+FROM EV_data_long
+WHERE EV_stock_share > 0
+```
 
 ```sql
 CREATE VIEW EV_types_distribution AS
@@ -71,10 +88,13 @@ GROUP BY region, year
 WHERE Total_EV_stock != 0 AND Total_chargers != 0
 ORDER BY region, year
 ```
+## Data Analysis
+
+To analize the data it was used an interactive Tableau dashboard was created and used to get to the results. The dashboard can be accessed [here](https://public.tableau.com/app/profile/diego.islas/viz/EVproject_17145381333610/EVDashboard2).
 
 ## Results
 
-As part of the project an interactive Tableau dashboard was created and used to get the results. The dashboard can be accessed [here](https://public.tableau.com/app/profile/diego.islas/viz/EVproject_17145381333610/EVDashboard2).
+As part of the project an interactive Tableau dashboard was created and used to get to the results. The dashboard can be accessed [here](https://public.tableau.com/app/profile/diego.islas/viz/EVproject_17145381333610/EVDashboard2).
 
 The analysis results are summarized as follows:
 
@@ -112,5 +132,4 @@ Based on the growth in EV sales, the obvious move is to look at the charging sta
 - The dataset used only included data from 51 countries and covered from 2010 to 2023.
 - There were outliers with 0.034 in charging stations that were fixed with zeros.
 - The charging stations were divided in slow chargers and fast chargers in the data source but they were joined to simplify the results of this project.
-- 
 

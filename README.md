@@ -85,8 +85,6 @@ To analize the data an interactive Tableau dashboard was created and used to get
 
 ## Results
 
-As part of the project an interactive Tableau dashboard was created and used to get to the results. The dashboard can be accessed [here](https://public.tableau.com/app/profile/diego.islas/viz/EVproject_17145381333610/EVDashboard2).
-
 The analysis results are summarized as follows:
 
 ### Electric Vehicles
@@ -108,9 +106,12 @@ Based on the analysis, I recommend the following actions:
 
 Although all around the world the EV adoption has shown a clear upward trend, there are some markets and products that could see a bigger adoption therefore these are the recommendations based on that:
 
-- The EV type to focus on to develop would have to be the preferred type of EV which is the **Battery Electric Vehicle (BEV)** by far, having **more than half of the market** for over 10 years, leaving as the runner up the **Plugins Hybrid Electric Vehicles PHEV** with most of the remaining market (**around 30%** in the last years) and the **Fuel Cell Electric Vehicles (FCEV)** with a very small portion of the market with **less that 1%** due to being a new technology.
-- The countries where the investments should be thrown at are the ones that have preferred EVs over the **ICE (Internal Combustion Engines or gas cars)** which are **Norway, Iceland, Sweden, Finland, Denmark, Belgium and China.**
-- **United States** and **China** are also huge markets to consider, given that despite the USA having **only 10%** of EV adoption in 2023, the States were the **second country** with the highest EV sales in that same year, while **China was first place**. 
+- The EV type developtment priority based on the market size should follow this order:
+  1. **Battery Electric Vehicle (BEV)** having **more than half of the market** for over 10 years.
+  2. **Plugins Hybrid Electric Vehicles PHEV** with most of the remaining market (**around 30%** in the last years).
+  3. **Fuel Cell Electric Vehicles (FCEV)** with a very small portion of the market with **less that 1%** due to being a new technology.
+- Invest in countries where **EVs** are preferred over the **ICE (Internal Combustion Engines or gas cars)** which are **Norway, Iceland, Sweden, Finland, Denmark, Belgium and China.**
+- Focus on the giant markets of **United States** and **China**, given that despite the USA having **only 10%** of EV adoption in 2023, the States were the **second country** with the highest EV sales in that same year, while **China was first place**. 
 
 Based on the growth in EV sales, the obvious move is to look at the charging stations to recharge this type of vehicles, so these are the recommendations for that:
 

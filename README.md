@@ -103,8 +103,7 @@ The analysis results are summarized as follows:
 ## Recommendations
 
 Based on the analysis, I recommend the following actions:
-Centralize
-Concentrate 
+
 Considering the EV adoption these are the markets with where the attention should be put due to the higher chances of success: 
 
 - The EV type developtment priority based on the market size should follow this order:

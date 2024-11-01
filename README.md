@@ -12,18 +12,22 @@
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 
+
 ## Project Overview 
 
 This project shows important insights of the global EV sales data throughout the years, offering data about sales, current number of EVs per country divided by their types (BEV, HEV, PHEV) and charging stations by country and year. The purpose of this is to provide key information about the best EV type investment, best country to invest in EV or charging stations, based on trends and current metrics.
+
 
 ## Data Source
 
 The two datasets ([EV_sales.csv](https://github.com/diegoislasm/Data_projects/blob/main/EV_sales.csv) and [EV_charging_points.csv](https://github.com/diegoislasm/Data_projects/blob/main/EV_charging_points.csv)) used for this analysis were obtained from IEA (2024), Global EV Data Explorer, IEA, Paris https://www.iea.org/data-and-statistics/data-tools/global-ev-data-explorer.
 
+
 ## Tools
 
 - SQL Server - Data cleaning and analysis
 - Tableau - Creating dashboard
+
 
 ## Data Cleaning and Preparation
 
@@ -79,6 +83,7 @@ WHERE Total_EV_stock != 0 AND Total_chargers != 0
 ORDER BY region, year
 ```
 
+
 ## Data Analysis
 
 To analize the data an interactive Tableau dashboard was created and used to get to the results. The dashboard can be accessed [here](https://public.tableau.com/app/profile/diego.islas/viz/EVproject_17145381333610/EVDashboard2).
@@ -86,6 +91,7 @@ To analize the data an interactive Tableau dashboard was created and used to get
 <img src="https://github.com/user-attachments/assets/7cf3301d-666c-467a-a946-a00daab319e2" height="400">
 
 <img src="https://github.com/user-attachments/assets/37e5ea91-a0eb-4659-8387-5ff05758b765" height="400">
+
 
 ## Results
 
@@ -104,6 +110,7 @@ The analysis results are summarized as follows:
 - Chargers per 100 EV have gone from **23** in 2010 to **10** in 2023.
 - Number of EVs and chargers globally have grown at a very similar rate since 2010 through 2023, except between **2019 and 2021** when the **number of EVs increased** at a higher rate than the chargers.
 
+
 ## Recommendations
 
 Based on the analysis, I recommend the following actions:
@@ -117,8 +124,8 @@ Considering the EV adoption these are the markets with where the attention shoul
 - Invest in countries where **EVs** are preferred over the **ICE (Internal Combustion Engines or gas cars)** which are **Norway, Iceland, Sweden, Finland, Denmark, Belgium and China.**
 - Focus on the giant markets of **United States** and **China**, given that despite the USA having **only 10%** of EV adoption in 2023, the States were the **second country** with the highest EV sales in that same year, while **China was first place**. 
 
-Given that with a higher EV market a charging station network is needed these are the recomendations for that:
 
+Given that with a higher EV market a charging station network is needed these are the recomendations for that:
 
 - Based on the global trend of chargers per 100 EV ratio, the EVs have been produced at a higher speed compared to the number of chargers to satisfy the demand, considering that after 2010 when the ratio was **20 chargers per 100 EV**, the number of chargers have decreased gradually to only **10 chargers per 100 EV** in 2023, showing unsatisfied demand.
 - Invest in charging networks in countries with low number of chargers per EV but with a high adoption of EVs, like **New Zealand, Norway, Iceland, USA and Germany** where the chargers per 100 EV ratio is below 5, (being 8 the average).

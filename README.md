@@ -116,7 +116,8 @@ Considering the EV adoption these are the markets with where the attention shoul
 
 Given that with a higher EV market a charging station network is needed these are the recomendations for that:
 
-- Based on the global trend of chargers per 100 EV ratio it's easy to see that EV have been produced at a higher speed compared to the number of chargers to satisfy the demand, considering that after 2010 when the ratio was **20 chargers per 100 EV**, the number of chargers have decreased gradually to only **10 chargers per 100 EV** in 2023, showing unsatisfied demand.
+
+- Based on the global trend of chargers per 100 EV ratio, the EVs have been produced at a higher speed compared to the number of chargers to satisfy the demand, considering that after 2010 when the ratio was **20 chargers per 100 EV**, the number of chargers have decreased gradually to only **10 chargers per 100 EV** in 2023, showing unsatisfied demand.
 - Invest in charging networks in countries with low number of chargers per EV but with a high adoption of EVs, like **New Zealand, Norway, Iceland, USA and Germany** where the chargers per 100 EV ratio is below 5, (being 8 the average).
 
 

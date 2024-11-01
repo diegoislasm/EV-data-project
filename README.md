@@ -83,6 +83,10 @@ ORDER BY region, year
 
 To analize the data an interactive Tableau dashboard was created and used to get to the results. The dashboard can be accessed [here](https://public.tableau.com/app/profile/diego.islas/viz/EVproject_17145381333610/EVDashboard2).
 
+<img src="https://github.com/user-attachments/assets/7cf3301d-666c-467a-a946-a00daab319e2" height="400">
+
+<img src="https://github.com/user-attachments/assets/37e5ea91-a0eb-4659-8387-5ff05758b765" height="400">
+
 ## Results
 
 The analysis results are summarized as follows:

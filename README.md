@@ -88,23 +88,24 @@ To analize the data an interactive Tableau dashboard was created and used to get
 The analysis results are summarized as follows:
 
 ### Electric Vehicles
-- The top 5 countries with highest % of cars being EVs in 2023 were **Norway** (29%), **Iceland** (18%), **Sweden** (11%), **Finland** (8%) and **China** (7%), with a **global average** of 2.97%**
-- The top 5 countries with highest percentage of EVs sold of total car sales were **Norway** (93%), **Iceland** (71%), **Sweden** (60%), **Finland** (54%) and **Denmark** (46%), with a **global average** of 18%
+- Top 5 countries with highest % of cars being EVs in 2023 were **Norway** (29%), **Iceland** (18%), **Sweden** (11%), **Finland** (8%) and **China** (7%), with a **global average** of 2.97%**
+- Top 5 countries with highest percentage of EVs sold of total car sales were **Norway** (93%), **Iceland** (71%), **Sweden** (60%), **Finland** (54%) and **Denmark** (46%), with a **global average** of 18%
 - The global EV type sales distribution was 0.1% **FCEV**, 31% **PHEV** and 68.8% **BEV**.
-- The countries with the highest EV sales in 2023 are **China** with 8.1 million, **USA** with 1.3 million and **Germany** with 700 thousands.
+- Countries with the highest EV sales in 2023 are **China** with 8.1 million, **USA** with 1.3 million and **Germany** with 700 thousands.
 
 ### Charging stations
 
-- The top 5 countries with more chargers per 100 EVs in 2023 were **South Korea** (36), **Chile** (27), **Netherlands** (21), **Greece** (15) and **China** (12) with the **global average** being 8 chargers.
+- Top 5 countries with more chargers per 100 EVs in 2023 were **South Korea** (36), **Chile** (27), **Netherlands** (21), **Greece** (15) and **China** (12) with the **global average** being 8 chargers.
 - Some of the top 10 countries with less chargers per 100 EVs in 2023 include **Norway** (3), **United Kingdom** (3), **Iceland** (4), **United States** (4) and **Germany** (4). 
-- The chargers per 100 EV have gone from **23** in 2010 to **10** in 2023.
-- The number of EVs and chargers globally have grown at a very similar rate since 2010 through 2023, except between **2019 and 2021** when the **number of EVs increased** at a higher rate than the chargers.
+- Chargers per 100 EV have gone from **23** in 2010 to **10** in 2023.
+- Number of EVs and chargers globally have grown at a very similar rate since 2010 through 2023, except between **2019 and 2021** when the **number of EVs increased** at a higher rate than the chargers.
 
 ## Recommendations
 
 Based on the analysis, I recommend the following actions:
-
-Although all around the world the EV adoption has shown a clear upward trend, there are some markets and products that could see a bigger adoption therefore these are the recommendations based on that:
+Centralize
+Concentrate 
+Considering the EV adoption these are the markets with where the attention should be put due to the higher chances of success: 
 
 - The EV type developtment priority based on the market size should follow this order:
   1. **Battery Electric Vehicle (BEV)** having **more than half of the market** for over 10 years.
@@ -113,10 +114,10 @@ Although all around the world the EV adoption has shown a clear upward trend, th
 - Invest in countries where **EVs** are preferred over the **ICE (Internal Combustion Engines or gas cars)** which are **Norway, Iceland, Sweden, Finland, Denmark, Belgium and China.**
 - Focus on the giant markets of **United States** and **China**, given that despite the USA having **only 10%** of EV adoption in 2023, the States were the **second country** with the highest EV sales in that same year, while **China was first place**. 
 
-Based on the growth in EV sales, the obvious move is to look at the charging stations to recharge this type of vehicles, so these are the recommendations for that:
+Given that with a higher EV market a charging station network is needed these are the recomendations for that:
 
 - Based on the global trend of chargers per 100 EV ratio it's easy to see that EV have been produced at a higher speed compared to the number of chargers to satisfy the demand, considering that after 2010 when the ratio was **20 chargers per 100 EV**, the number of chargers have decreased gradually to only **10 chargers per 100 EV** in 2023, showing unsatisfied demand.
-- It is recommended to make investments in the countries with not enough chargers per EV but with a high adoption of EVs, like **New Zealand, Norway, Iceland, USA and Germany** where the chargers per 100 EV ratio is below 5, being 8 the average. So despite the high adoption of EVs in these countries, the chargers developtment is not there yet which creates a big opportunity for success, maybe even better than the EV industry itselt where competition gets harder and harder. 
+- Invest in charging networks in countries with low number of chargers per EV but with a high adoption of EVs, like **New Zealand, Norway, Iceland, USA and Germany** where the chargers per 100 EV ratio is below 5, (being 8 the average).
 
 
 ## Limitations

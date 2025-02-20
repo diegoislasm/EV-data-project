@@ -1,4 +1,5 @@
 # Electric Vehicles sales analysis
+SQL and Tableau project to get important insights about EVs and charging stations global best investments.
 
 ## Table of contents
 

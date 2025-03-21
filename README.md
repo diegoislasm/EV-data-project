@@ -1,4 +1,4 @@
-# Electric Vehicles sales analysis
+# EV Market & Charging Infrastructure Analysis with SQL & Tableau
 SQL and Tableau project to get important insights about EVs and charging stations global best investments.
 
 ## Table of contents
